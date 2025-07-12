@@ -5,3 +5,9 @@ This is the UI automation on Amazon website. Here I have automated the activitie
 3. Then save the first 5 items with their price in the txt file and then closing the browser.
 
 I have used Java selenium to automate the project. I have used dependencies to automate the functionalities and saved all those dependencies in pom.xml file. I have taken those dependencies from maven repository.
+
+## Author
+- Name: Sayantan Mukherjee
+- GitHub: https://github.com/sayantanviky
+- LinkedIn: https://www.linkedin.com/in/sayantan-mukherjee-9975b3b7
+- YouTube: @sayantanmukherjee8294
